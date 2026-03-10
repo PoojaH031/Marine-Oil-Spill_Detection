@@ -1,0 +1,21 @@
+Member Name,Date,Role,Task completed today,,Total no of hours worked,,Github commit link
+,,,,,,,
+Priyaguna R,10/03/2026,President,"Verified the attendance and task status of all 11 members to ensure total squad alignment.
+​Conducted a GitHub repository audit",,5,,
+Tamirah Sharieff,10/03/2026,Vice President,Managed team operations and maintain daily log updates,,5,,
+Kashish,10/03/2026,Secretary,"Conducted meeting discussing project progress,coordination between the different teams, and maintained attendance record.",,5,,
+Lasya T P,10/03/2026,Data Engineer,"Completed the data preprocessing pipeline including EDA, binary masking and color mapping, pushed to the dataEngineering branch on GitHub.",,5,,https://github.com/PRIYAGUNAR/marine-oil-spill-detection/commit/31c42cc8a8ae3a28c2ec7c8e977acbe7202f6723
+,,,,,,,
+Tejas V,10/03/2026,Data Engineer,"I worked on the preprocessing notebook, implementing the Lee filter, normalization, and resizing of images and masks.",,,,
+,,,,,,,
+B V Vedamurthi,10/03/2026,Report,Focused on the model development phase of the Marine Oil Spill Detection system.,,5,,
+Ammar Shibli,10/03/2026,Report,Researched and worked on building the model for detecting oil-contaminated regions from satellite images.,,,,
+,,,,,,,
+Snehal Rai B,10/03/2026,Model Evaluation,Developed evaluation metric and visual prediction for the unet model.,,5,,
+Manisha M S,10/03/2026,Model Evaluation,Researched about how to evaluate which evaluation are needed,,,,
+chandushree.s,10/03/2026,model evaluation , Researched which model should be used to train and started with the training the model,,,,
+Dikshitha Ramesh ,10/03/2026,Model evaluation ,Built model and started to train the model,,,,
+,,,,,,,
+Savari Yevoor,10/03/2026,Deployment,Identified required modifications in the existing code to improve deployment performance.,,5,,
+Nithin N Patel ,10/03/2026,Deployment,Tested parts of the developed code to verify compatibility with the deployment environment.,,5,,
+Pooja H,10/03/2026,Deployment,Prepared deployment strategy and documented steps for implementing the updated system.,,5,,
