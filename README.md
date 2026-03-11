@@ -39,6 +39,12 @@ Deployed link:https://marine-oil-spilldetection-ohxy5yy9uvhamzjmzuh2t2.streamlit
 6. Set the main file path to `app.py`.
 7. Click `Deploy`.
 
+## Contributors
+
+- Pooja H – Deployment & Model Integration
+- Nitin – Streamlit App Interface
+- Savari – README Preparation & Application Setup
+  
 ## Model details
 
 - Model architecture: Legacy U-Net
