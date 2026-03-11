@@ -30,7 +30,7 @@ http://localhost:8502
 ```
 
 ## Deploy on Streamlit Community Cloud
-
+Deployed link:https://marine-oil-spilldetection-ohxy5yy9uvhamzjmzuh2t2.streamlit.app/
 1. Push the latest code to GitHub.
 2. Open https://share.streamlit.io/.
 3. Click `New app`.
